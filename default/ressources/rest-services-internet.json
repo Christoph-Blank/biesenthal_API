@@ -1,0 +1,20 @@
+[
+  {
+    "id" : "2",
+    "name" : "Metadaten-URL",
+    "url" : "https://geoportal.brandenburg.de/detailansichtdienst/render?view=gdibb&url=https%3A%2F%2Fgeoportal.brandenburg.de%2Fgs-json%2Fxml%3Ffileid%3D",
+    "typ" : "URL"
+  },
+  {
+    "id": "3",
+    "name": "CSW",
+    "url": "https://isk.geobasis-bb.de/csw-gdi-bb/service?REQUEST=GetRecordById&service=CSW&version=2.0.2&resultType=results&typeNames=csw:Record&elementSetName=fulll",
+    "typ": "CSW"
+  },
+  {
+      "id": "lgb_elevation",
+      "name": "LGB Elevation API",
+      "url": "https://isk.geobasis-bb.de/elevation",
+      "typ": "URL"
+  }
+]
